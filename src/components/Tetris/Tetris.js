@@ -31,6 +31,9 @@ const Tetris = () => {
   };
 
   const startGame = () => {
+
+
+    alert(1)
     // reset everything
     console.log('start');
 
